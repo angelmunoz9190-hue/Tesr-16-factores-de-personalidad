@@ -1,0 +1,6 @@
+{
+  "name": "16PF - Admisión Lenguas Extranjeras",
+  "description": "Evaluación psicométrica 16PF para admisión de Licenciatura en Enseñanza de Lenguas Extranjeras con reporte gráfico, integración a Google Sheets y reporte PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
